@@ -20,7 +20,8 @@ background: "/img/bg-about.jpg"
       <a href="{{ site.baseurl }}{{ post.url }}" class="container">
         <h4><strong>{{post.title}}</strong></h4>
         <div class="date">
-          {{ post.date | date: "%B %e, %Y" }}
+          Date: {{ post.date | date: "%B %e, %Y" }}
+          {{ post }}
         </div>
         <p><strong>{{ post.subtitle }}</strong></p>
         <p>{{ post.excerpt | strip_html | truncatewords: 60 }}</p>
