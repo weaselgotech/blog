@@ -1,5 +1,5 @@
 ---
-title: Ranvir's Blog
+title: Notifer Blog
 timezone: UTC
 collections:
   posts:
@@ -11,27 +11,24 @@ collections:
   thoughts:
     title: Archives
     output: true
-name: Ranvir Singh
+name: Admin
 description: Open-source enthusiast.
 avatar: https://ranvir.xyz/blog/images/project-management.svg
 footer-links:
   dribbble:
-  email: ranvir.singh1114@gmail.com
+  email: weaselgotech@gmail.com
   facebook: "loyalseo"
   flickr:
-  github: singh1114
+  github: weaselgotech
   instagram:
-  linkedin: ranvir-singh-03b0811a9/
   pinterest:
   rss:
-  twitter: ranvirsingh1114
   stackoverflow:
   youtube:
   googleplus:
-disqus: ranvir-singh
 google_analytics:
-url: https://ranvir.xyz
-baseurl: "/blog"
+url: https://blog.taskforge.co
+baseurl: ""
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -61,6 +58,4 @@ paginate: 10
 paginate_path: "/posts/page:num/"
 include:
 - _categories
-- _authors
-- _thoughts
 series_array: []
