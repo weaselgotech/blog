@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: singh1114/blog
+  repo: weaselgotech/blog
   branch: gh-pages
 
 media_folder: "images"
