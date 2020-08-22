@@ -11,7 +11,7 @@ collections:
   thoughts:
     title: Archives
     output: true
-name: Admin
+name: Notifier
 description: All types of news delivered
 avatar: http://blog.taskforge.co/images/abc.jpg
 footer-links:
