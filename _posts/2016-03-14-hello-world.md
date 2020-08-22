@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-date: '2016-12-04 18:11:00 +0000'
+date: '2020-08-22 18:11:00 +0000'
 published: true
 tags:
   - seo
@@ -16,6 +16,8 @@ This is a website where you will find different projects for different coding la
 {% include linked_post.html url="how-to-contribute-to-open-source-and-land-a-better-job" %}
 
 ## Later
+
+We will soon launch our newsletter.
 
 ## Now
 
