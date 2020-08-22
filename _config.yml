@@ -12,12 +12,11 @@ collections:
     title: Archives
     output: true
 name: Admin
-description: Open-source enthusiast.
-avatar: https://ranvir.xyz/blog/images/project-management.svg
+description: All types of news delivered
+avatar: https://blog.taskforge.co/blog/images/abc.jpg
 footer-links:
   dribbble:
   email: weaselgotech@gmail.com
-  facebook: "loyalseo"
   flickr:
   github: weaselgotech
   instagram:
