@@ -13,7 +13,7 @@ collections:
     output: true
 name: Admin
 description: All types of news delivered
-avatar: https://blog.taskforge.co/blog/images/abc.jpg
+avatar: http://blog.taskforge.co/images/abc.jpg
 footer-links:
   dribbble:
   email: weaselgotech@gmail.com
