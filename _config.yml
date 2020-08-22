@@ -12,7 +12,7 @@ collections:
     title: Archives
     output: true
 name: GoWeasel
-description: All types of news delivered
+description: Your favourite content delivered in your inbox
 avatar: http://blog.taskforge.co/images/abc.jpg
 footer-links:
   dribbble:
