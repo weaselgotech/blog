@@ -5,9 +5,9 @@ date: 2020-08-22T22:25:59.224Z
 updated_date: 2020-08-22T22:25:29.769Z
 published: true
 tags:
-  - seo
+  - javascript
 categories:
-  - seo
+  - javascript
 ---
 
 Hello world,
