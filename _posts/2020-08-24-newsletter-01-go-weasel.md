@@ -20,9 +20,9 @@ We’ve listed the best articles -
 
 Loads of people have been asking me how I write my JavaScript — okay, that’s a lie, no one asks me that but if they did, I’d like to point them to this article. I adopted my code style over the years, after reading Clean Code (and other books), after using years of PHP. Yes, PHP, don’t knock it, it’s got a great community and great coding standards. And of course, years of writing JS with others, and following along styleguides from various companies.
 
-https://overreacted.io/why-isnt-x-a-hook/(Why Isn’t X a Hook?)
+[https://overreacted.io/why-isnt-x-a-hook/](Why Isn’t X a Hook?)
 
-<Since the first alpha version of React Hooks was released, there is a question that keeps coming up in discussions: “Why isn’t <some other API> a Hook?”>
+Since the first alpha version of React Hooks was released, there is a question that keeps coming up in discussions: “Why isn’t <some other API> a Hook?”
 
 https://overreacted.io/a-complete-guide-to-useeffect/(A Complete Guide to useEffect)
 
