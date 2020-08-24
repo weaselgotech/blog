@@ -25,14 +25,14 @@ We’ve listed the best articles -
 
 Loads of people have been asking me how I write my JavaScript — okay, that’s a lie, no one asks me that but if they did, I’d like to point them to this article. I adopted my code style over the years, after reading Clean Code (and other books), after using years of PHP. Yes, PHP, don’t knock it, it’s got a great community and great coding standards. And of course, years of writing JS with others, and following along styleguides from various companies.
 
-[https://overreacted.io/why-isnt-x-a-hook/](Why Isn’t X a Hook?)
+[Why Isn’t X a Hook?](https://overreacted.io/why-isnt-x-a-hook/)
 
 Since the first alpha version of React Hooks was released, there is a question that keeps coming up in discussions: “Why isn’t <some other API> a Hook?”
 
-https://overreacted.io/a-complete-guide-to-useeffect/(A Complete Guide to useEffect)
+[A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
-<You wrote a few components with Hooks. Maybe even a small app. You’re mostly satisfied. You’re comfortable with the API and picked up a few tricks along the way. You even made some custom Hooks to extract repetitive logic (300 lines gone!) and showed it off to your colleagues. “Great job”, they said.>
+You wrote a few components with Hooks. Maybe even a small app. You’re mostly satisfied. You’re comfortable with the API and picked up a few tricks along the way. You even made some custom Hooks to extract repetitive logic (300 lines gone!) and showed it off to your colleagues. “Great job”, they said.
 
-https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8(Beyond console.log())
+[Beyond console.log()](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8)
 
-<There is more to debugging JavaScript than console.log to output values. It might seem obvious I’m going to pimp the debugger, but actually no.>
+There is more to debugging JavaScript than console.log to output values. It might seem obvious I’m going to pimp the debugger, but actually no.
