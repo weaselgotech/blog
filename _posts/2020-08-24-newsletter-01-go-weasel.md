@@ -13,9 +13,9 @@ categories:
 show_ads: false
 show_telegram_signup: false
 ---
-![https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80](Javascript Blog)
+This page shares best articles to read on JavaScript. 
 
-This page shares best articles to read on Javascript. 
+![https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80](Javascript Blog)
 
 You’ll find interesting articles to read on topics like how to optimize your code, Speed up your code as well as personal recommendations articles on Programming. Ready to dive in? 
 
