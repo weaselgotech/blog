@@ -3,6 +3,7 @@ layout: post
 title: "JavaScript NewsLetter - GO WEASEL "
 date: 2020-08-24T19:45:00.477Z
 updated_date: 2020-08-24T19:45:00.501Z
+description: "Best articles to read on Javascript. "
 published: true
 image: https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
 tags:
