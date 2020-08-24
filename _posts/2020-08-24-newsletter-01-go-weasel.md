@@ -15,7 +15,7 @@ show_telegram_signup: false
 ---
 This page shares best articles to read on JavaScript. 
 
-![https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80](Javascript Blog)
+![JavaScript Blog](https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80)
 
 You’ll find interesting articles to read on topics like how to optimize your code, Speed up your code as well as personal recommendations articles on Programming. Ready to dive in? 
 
