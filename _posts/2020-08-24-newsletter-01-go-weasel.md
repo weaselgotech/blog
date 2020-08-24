@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2
 show_ads: false
 show_telegram_signup: false
 ---
-{% include lazyload.html image_src="https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" image_alt="Javascript Blog" image_title="Javascript Blog" %}
+![https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80](Javascript Blog)
 
 This page shares best articles to read on Javascript. 
 
