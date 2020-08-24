@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NewsLetter 01 - GO WEASEL "
+title: "JavaScript NewsLetter - GO WEASEL "
 date: 2020-08-24T19:45:00.477Z
 updated_date: 2020-08-24T19:45:00.501Z
 published: true
