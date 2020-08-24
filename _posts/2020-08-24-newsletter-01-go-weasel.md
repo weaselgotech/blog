@@ -18,7 +18,7 @@ We’ve listed the best articles -
 
 [How I Structure My JavaScript File](https://dev.to/antjanus/how-i-structure-my-javascript-file-2clc)
 
-<Loads of people have been asking me how I write my JavaScript — okay, that’s a lie, no one asks me that but if they did, I’d like to point them to this article. I adopted my code style over the years, after reading Clean Code (and other books), after using years of PHP. Yes, PHP, don’t knock it, it’s got a great community and great coding standards. And of course, years of writing JS with others, and following along styleguides from various companies.>
+Loads of people have been asking me how I write my JavaScript — okay, that’s a lie, no one asks me that but if they did, I’d like to point them to this article. I adopted my code style over the years, after reading Clean Code (and other books), after using years of PHP. Yes, PHP, don’t knock it, it’s got a great community and great coding standards. And of course, years of writing JS with others, and following along styleguides from various companies.
 
 https://overreacted.io/why-isnt-x-a-hook/(Why Isn’t X a Hook?)
 
