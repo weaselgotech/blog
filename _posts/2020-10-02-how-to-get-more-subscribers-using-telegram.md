@@ -21,7 +21,7 @@ show_telegram_signup: true
 ---
 Telegram is a great tool for sharing your newsletter and increasing the list of highly targetted subscribers. Each time you share the post, your telegram subscribers read what you have to say.
 
-![How to get more subscribers using Telegram](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![How to get more subscribers using Telegram](https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 These subscribers can be considered as the leads that can be converted to a customer or long term clients.
 
