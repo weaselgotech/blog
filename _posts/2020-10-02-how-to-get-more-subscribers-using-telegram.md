@@ -3,11 +3,17 @@ layout: post
 title: How to get more subscribers using Telegram
 date: 2020-10-02T14:12:46.372Z
 updated_date: 2020-10-02T14:12:46.455Z
+description: Telegram is a great tool for sharing your newsletter and increasing
+  the list of highly targetted subscribers. Each time you share the post, your
+  telegram subscribers read what you have to say.
 published: true
+image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 show_ads: false
 show_telegram_signup: true
 ---
 Telegram is a great tool for sharing your newsletter and increasing the list of highly targetted subscribers. Each time you share the post, your telegram subscribers read what you have to say.
+
+![How to get more subscribers using Telegram](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 These subscribers can be considered as the leads that can be converted to a customer or long term clients.
 
@@ -17,7 +23,7 @@ In this post, we are going to discuss a few ways in which you can increase the n
 
 We at GoWeasel, create a Newsletter page for your telegram bot from where people can discover your telegram bot and see the issues that you have shared before as well.
 
-{% include lazyload.html image_src="https://i.ibb.co/j8kY4vg/Screenshot-2020-10-02-at-8-27-53-PM-1.png" image_alt="telegram newsletter page on goweasel" image_title="telegram newsletter page on goweasel" %}
+![telegram newsletter page on goweasel](https://i.ibb.co/j8kY4vg/Screenshot-2020-10-02-at-8-27-53-PM-1.png)
 
 The issue with the approach is that the discovery of this type of page is very limited unless you start promoting this page.
 
@@ -25,7 +31,7 @@ A better approach is to add a widget to your blog which can allow your subscribe
 
 The design of the widget can be anything. We have added a similar widget to our blog as well.
 
-{% include lazyload.html image_src="https://i.ibb.co/WBvT8tp/Screenshot-2020-08-08-at-1-49-49-AM.png" image_alt="GoWeasel integration with the website" image_title="GoWeasel integration with the website" %}
+![GoWeasel integration with the website](https://i.ibb.co/WBvT8tp/Screenshot-2020-08-08-at-1-49-49-AM.png)
 
 ## Adding a great tagline to before the subscription widget
 
