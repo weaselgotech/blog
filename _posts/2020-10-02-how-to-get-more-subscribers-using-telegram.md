@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get more subscribers using Telegram
+title: How to get more subscribers using Telegram For your Newsletter
 date: 2020-10-02T14:12:46.372Z
 updated_date: 2020-10-02T14:12:46.455Z
 description: Telegram is a great tool for sharing your newsletter and increasing
